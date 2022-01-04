@@ -77,10 +77,12 @@
 }
 .container__content__item__name {
   margin: 0px;
+  width: 38%;
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 9px;
+  text-align: start;
   line-height: 27px;
 }
 .container__content__item__position {
@@ -130,8 +132,9 @@
     transform: translate(-6vh, -19vw);
   }
   .container__content__item__name {
-    font-size: 13px;
+    font-size: 10px;
     line-height: 21px;
+    width: 100%;
   }
   .container__header {
     flex-direction: column;
