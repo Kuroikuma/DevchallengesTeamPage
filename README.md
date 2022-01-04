@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://devchallenges-team-page-plq2l4wn4-kuroikuma.vercel.app/">
+    <a href="https://devchallenges-team-page-8i33u5qe3-kuroikuma.vercel.app/">
       Demo
     </a>
     <span> | </span>
